@@ -16,3 +16,14 @@ task/.idea/compiler.xml
 task/.idea/misc.xml
 task/.idea/modules.xml
 task/task1vimana.iml
+task2/.idea/compiler.xml
+task2/.idea/libraries/Maven__axis_axis_1_4.xml
+task2/.idea/libraries/Maven__axis_axis_wsdl4j_1_5_1.xml
+task2/.idea/libraries/Maven__biz_futureware_mantis_mantis_axis_soap_client_1_2_9.xml
+task2/.idea/libraries/Maven__commons_discovery_commons_discovery_0_2.xml
+task2/.idea/libraries/Maven__commons_logging_commons_logging_1_0_4.xml
+task2/.idea/libraries/Maven__org_apache_axis_axis_jaxrpc_1_4.xml
+task2/.idea/libraries/Maven__org_apache_axis_axis_saaj_1_4.xml
+task2/.idea/misc.xml
+task2/.idea/modules.xml
+task2/task2.iml
